@@ -13,9 +13,14 @@ This Python project aims to simplify the process of managing birthday gift givin
 
 ## Installation
 1. Clone the repository:
-git clone git@github.com:lunoack/BirthdayList.git
-2. Navigate to the project directory:
-cd BirthdayList
+   ```bash
+   git clone git@github.com:lunoack/BirthdayList.git
+   ```
+ 
+3. Navigate to the project directory:
+    ```bash
+    cd BirthdayList
+    ```
 
 ## Usage
 1. Run the Python script:
@@ -36,11 +41,7 @@ Suppose you want to create a birthday list for your family. After running the sc
       "Vonzii": "MaxM 19.07."
     }
 }
+```
 
 ## Contributing
 Contributions are welcome! If you find a bug or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
